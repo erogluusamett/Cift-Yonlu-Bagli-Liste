@@ -63,7 +63,7 @@ class CiftBagliListe {
     }
 }
 
-public class Ana {
+public class CiftYonluBagliListe{
     public static void main(String[] args) {
         CiftBagliListe bagliListe = new CiftBagliListe();
         Scanner scanner = new Scanner(System.in);
